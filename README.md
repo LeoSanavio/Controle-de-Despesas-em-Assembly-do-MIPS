@@ -26,7 +26,7 @@ valor total dos gastos por categoria, organizadas em ordem alfabética.
 * Foi utilizado o software MARS (MIPS Assembler and Runtime Simulator) para compilação e execução de todo o projeto.
 * <a> [MARS (MIPS Assembler and Runtime Simulator): Necessário para desenvolvimento do projeto](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
 
-   * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação assembly do MIPS.
+   * **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação, e linguagem de programação assembly do MIPS.
    
    ### Guia de instalação
 * Para executar o programa na linguagem assembly do MIPS, no qual o algoritmo foi realizado, necessita apenas do software MARS, podendo ser realizado o download e desenvolvendo o projeto com ele, como já descrito, não precisando de nenhuma outra ferramenta adicional ou especial, esse programa pode ser obtido no link acima.
